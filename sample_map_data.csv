@@ -1,0 +1,21 @@
+record_id,name,category,address,city,state,latitude,longitude
+LM001,RGM College,College,"Nandyal Road, Nandyal",Nandyal,Andhra Pradesh,15.4786,78.4831
+LM002,Government General Hospital,Hospital,Government Hospital Road,Nandyal,Andhra Pradesh,15.4772,78.4847
+LM003,Nandyal Railway Station,Transport,Railway Station Road,Nandyal,Andhra Pradesh,15.478,78.4871
+LM004,RTC Bus Stand,Transport,Srinivasa Nagar,Nandyal,Andhra Pradesh,15.4861,78.4877
+LM005,District Library,Library,Main Road,Nandyal,Andhra Pradesh,15.4812,78.4862
+LM006,City Pharmacy,Pharmacy,Market Road,Nandyal,Andhra Pradesh,15.4823,78.484
+LM007,Sai Restaurant,Restaurant,Near Clock Tower,Nandyal,Andhra Pradesh,15.4801,78.4851
+LM008,Municipal Office,Government,Municipal Road,Nandyal,Andhra Pradesh,15.479,78.4819
+LM009,Central Park,Park,Park Road,Nandyal,Andhra Pradesh,15.484,78.4802
+LM010,Tech Point,Electronics,Madanapalle Road,Nandyal,Andhra Pradesh,15.4755,78.4902
+LM011,City Pharmacy,Pharmacy,Market Road,Nandyal,Andhra Pradesh,15.4823,78.484
+LM012,Community Hall,Community,Housing Board,Nandyal,Andhra Pradesh,15.4882,78.4798
+LM013,Old Bus Depot,Transport,Old Depot Road,Nandyal,Andhra Pradesh,15.489,78.4932
+LM014,Green Valley School,School,School Road,Nandyal,Andhra Pradesh,15.4718,78.4764
+LM015,Public Health Centre,Hospital,Rural Road,Nandyal,Andhra Pradesh,,78.4792
+LM016,Sri Bakery,Restaurant,Market Road,Nandyal,Andhra Pradesh,15.481,78.485
+LM017,Nandyal Post Office,Government,Post Office Road,Nandyal,Andhra Pradesh,15.4778,78.486
+LM018,Water Works,Government,Water Works Road,Nandyal,Andhra Pradesh,15.4901,78.4782
+LM019,Lakshmi Clinic,Hospital,Kurnool Road,Nandyal,Andhra Pradesh,15.4744,78.4914
+LM020,City Sports Ground,Sports,College Road,Nandyal,Andhra Pradesh,15.4708,78.482

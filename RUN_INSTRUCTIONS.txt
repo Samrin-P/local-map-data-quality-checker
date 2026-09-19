@@ -1,0 +1,5 @@
+1. Install Python 3.10+.
+2. Open Command Prompt in this project folder.
+3. Run: pip install -r requirements.txt
+4. Run: streamlit run app.py
+5. Upload sample_map_data.csv.
